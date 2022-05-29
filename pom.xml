@@ -24,10 +24,10 @@
 	<artifactId>binocularviusion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	 <packaging>war</packaging>
-	<name>binocularviusion</name>
-	<description>Demo project for medical apps</description>
+	<name>titles</name>
+	<description>Demo project for translate titles fran one fotmat into another</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
